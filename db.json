@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$Ge1Lky3KXcDSZ5lWfvFAHe8emDph31MaZuGj01z4tNmHCz.6Xe9wW",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": 1
+    },
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$RM.hZAobzB8aHXeYTBFMFOL12W.Sk3mrTnp.GW0bTzSsWNsRHJKim",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": 2
+    }
+  ],
+  "stuff": [
+    {
+      "id": "1",
+      "value": "lol"
+    }
+  ]
+}
